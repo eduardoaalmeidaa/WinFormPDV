@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDV", "PDV\PDV.csproj", "{4CC4D1CA-DD93-41C9-86D5-C9213516A0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC4D1CA-DD93-41C9-86D5-C9213516A0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC4D1CA-DD93-41C9-86D5-C9213516A0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC4D1CA-DD93-41C9-86D5-C9213516A0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC4D1CA-DD93-41C9-86D5-C9213516A0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4AB8572-C171-4241-8AAA-FE2C6CDDD1E8}
+	EndGlobalSection
+EndGlobal
